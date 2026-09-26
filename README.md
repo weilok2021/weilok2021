@@ -6,6 +6,6 @@ I'm open to software engineering roles, backend or full stack, in Malaysia, Sing
 
 **Courses I'm taking**
 - UC Berkeley CS61B: data structures and algorithms in Java
-- C fundamentals, to prepare for Stanford CS107
+- Systems programming in C: pointers, memory and data structures, to prepare for Stanford CS107 (Computer Organization and Systems)
 
 [LinkedIn](https://www.linkedin.com/in/weilokchia)
